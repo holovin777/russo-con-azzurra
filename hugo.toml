@@ -1,3 +1,12 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://russo-con-azzurra.vercel.app"
+languageCode = "it"
+title = "Russo con Azzurra"
+theme = "hugo-book"
+
+[params]
+  BookTheme = 'auto'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
