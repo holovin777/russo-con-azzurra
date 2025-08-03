@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Benvenuta, Azzurra! on Russo con Azzurra</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Benvenuta, Azzurra! on Russo con Azzurra</description>
+    <title>Lezioni on Russo con Azzurra</title>
+    <link>http://localhost:1313/docs/lezione/</link>
+    <description>Recent content in Lezioni on Russo con Azzurra</description>
     <generator>Hugo</generator>
     <language>it</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/lezione/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>01 – Introduzione alla lingua russa (senza panico!) 😄</title>
       <link>http://localhost:1313/docs/lezione/01-introduzione/</link>
